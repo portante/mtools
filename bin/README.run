@@ -1,0 +1,1 @@
+./btmon3.py --device-type=gem --packet-format=gem48ptbin --serial --serial-port=/dev/tty.usbserial-14120 --serial-baud=115200 -p --include-current --reverse-polarity --trust-device-clock --utc-device-clock
